@@ -32,6 +32,9 @@
     "RxCocoa": [
       "6.5.0"
     ],
+    "RxRelay": [
+      "6.5.0"
+    ],
     "iOSDFULibrary": [
       "4.11.0"
     ]
